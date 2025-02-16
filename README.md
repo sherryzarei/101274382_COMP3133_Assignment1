@@ -5,7 +5,7 @@ This project is a GraphQL Employee Management System, designed to manage employe
 
 ## 1️⃣ Clone the Repository
 
-`git clone <>`
+`git clone https://github.com/sherryzarei/101274382_COMP3133_Assignment1.git`
 `cd 101274382_COMP3133_Assignment1`
 
 ## 2️⃣ Install Dependencies
@@ -59,6 +59,14 @@ Use the predefined queries/mutations to interact with the API.
 
 ### Get Employee by ID
 ![Get Employee by ID](images/Get-Employee-by-Id.png)
+
+
+## MongoDB Console Screenshots:
+### Users
+![Users](images/MongoDB-users.png)
+
+### Employees
+![Employees](images/MongoDB-employees.png)
 
 ## Postman Collection JSON Content
 
