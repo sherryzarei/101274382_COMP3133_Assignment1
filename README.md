@@ -51,14 +51,15 @@ Use the predefined queries/mutations to interact with the API.
 ### Delete Employee
 ![Delete Employee](images/Delete-Employee.png)
 
-### Get All Employees
-![Get All Employees](images/Get-All-Employees.png)
+### Get Employee by ID
+![Get Employee by ID](images/Get-Employee-by-Id.png)
 
 ### Get Employee by Designation
 ![Get Employee by Designation](images/Get-Employee-by-Designation.png)
 
-### Get Employee by ID
-![Get Employee by ID](images/Get-Employee-by-Id.png)
+### Get All Employees
+![Get All Employees](images/Get-All-Employees.png)
+
 
 
 ## MongoDB Console Screenshots:
